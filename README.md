@@ -2,7 +2,7 @@
 The source code for GoFormer framework.
 
 ## Paper
-GoFormer: A GoLPP Inspired Transformer for Functional Brain Graph Learning and Classification
+**GoFormer: A GoLPP Inspired Transformer for Functional Brain Graph Learning and Classification**
 
 Mengxue Pang, Lina Zhou, Xueying Yao, Jun Yang, Yining Zhang, Limei Zhang, Lishan Qiao
 
