@@ -13,7 +13,7 @@ We used the following datasets:
 - ADNI (Can be downloaded [here](https://adni.loni.usc.edu/))
 
 ## Dependencies
-GSAformer needs the following dependencies:
+GoFormer needs the following dependencies:
 
 - python 3.9.12
 - torch == 1.11.0
