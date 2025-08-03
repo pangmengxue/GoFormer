@@ -2,7 +2,7 @@
 The source code for GoFormer framework.
 
 ## Paper
-** GoFormer: A GoLPP Inspired Transformer for Functional Brain Graph Learning and Classification**
+GoFormer: A GoLPP Inspired Transformer for Functional Brain Graph Learning and Classification
 
 Mengxue Pang, Lina Zhou, Xueying Yao, Jun Yang, Yining Zhang, Limei Zhang, Lishan Qiao
 
@@ -10,7 +10,7 @@ Mengxue Pang, Lina Zhou, Xueying Yao, Jun Yang, Yining Zhang, Limei Zhang, Lisha
 We used the following datasets:
 
 - ABIDE (Can be downloaded [here](http://fcon_1000.projects.nitrc.org/indi/abide/))
-- ADNI (Can be downloaded [here](http://adni.loni.usc.edu/))
+- ADNI (Can be downloaded [here](https://adni.loni.usc.edu/))
 
 ## Dependencies
 GSAformer needs the following dependencies:
