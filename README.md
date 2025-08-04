@@ -20,4 +20,3 @@ GoFormer needs the following dependencies:
 - numpy == 1.21.5
 - scipy == 1.7.3
 - sklearn == 1.0.2
-- h5py == 3.6.0
